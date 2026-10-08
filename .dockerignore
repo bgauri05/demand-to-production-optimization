@@ -1,0 +1,17 @@
+.git/
+.env
+scratch/
+__pycache__/
+*.pyc
+
+# Frontend ignores
+frontend/node_modules/
+frontend/dist/
+node_modules/
+dist/
+
+# Backend ignores
+backend/venv/
+backend/.venv/
+venv/
+.venv/
